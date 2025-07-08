@@ -11,13 +11,12 @@ Todo List for this project:
     - (DONE) Make it possible to log in
     - (DONE) Make it possible to log out
 - (DONE) Simple Dashboard (to see leads, clients etc)
-- Create new leads
+- (DONE) Create new leads
     - (DONE) New Django App
     - (DONE) Database Models
-    - Views/Forms for leads
-    - List out Leads
-    - View detail page of leads
-    -
+    - (DONE) Views/Forms for leads
+    - (DONE) List out Leads
+    - (DONE) View detail page of leads
 - Change and delete leads
 - Convert leads to clients
 - Change and delete clients
