@@ -17,8 +17,10 @@ Todo List for this project:
     - (DONE) Views/Forms for leads
     - (DONE) List out Leads
     - (DONE) View detail page of leads
-- Change and delete leads
-- Convert leads to clients
+- (DONE) Change and delete leads
+- (DONE) Convert leads to clients
+- Show a list of clients
+- Show a detailed page of a client
 - Change and delete clients
 - Implement solution for teams
 - Implement a payment solution / Monthly recurring payments
