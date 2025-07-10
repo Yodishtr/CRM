@@ -19,9 +19,14 @@ Todo List for this project:
     - (DONE) View detail page of leads
 - (DONE) Change and delete leads
 - (DONE) Convert leads to clients
-- Show a list of clients
-- Show a detailed page of a client
-- Change and delete clients
+- (DONE) Show a list of clients
+- (DONE) Show a detailed page of a client
+- (DONE) Add Clients (may want to add a client without having to create a lead first)
+- (DONE) Change and delete clients
 - Implement solution for teams
+    - Create teams app
+    - Model for teams
+    - Create new teams
+    - You need to be a member of a team
 - Implement a payment solution / Monthly recurring payments
 - Deploy
