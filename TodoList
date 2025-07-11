@@ -24,9 +24,9 @@ Todo List for this project:
 - (DONE) Add Clients (may want to add a client without having to create a lead first)
 - (DONE) Change and delete clients
 - Implement solution for teams
-    - Create teams app
-    - Model for teams
-    - Create new teams
-    - You need to be a member of a team
+    - (DONE) Create teams app
+    - (DONE) Model for teams
+    - (DONE) When you create a lead, make sure a team is set
+    - (DONE) When you create a client, make sure a team is set
 - Implement a payment solution / Monthly recurring payments
 - Deploy
