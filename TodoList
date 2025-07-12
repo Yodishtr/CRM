@@ -28,5 +28,7 @@ Todo List for this project:
     - (DONE) Model for teams
     - (DONE) When you create a lead, make sure a team is set
     - (DONE) When you create a client, make sure a team is set
+    - (DONE) if youre not a member of a team, create one
+    if youre the owner of the team, you can edit the team
 - Implement a payment solution / Monthly recurring payments
 - Deploy
